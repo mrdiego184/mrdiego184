@@ -18,9 +18,8 @@
 </p>
 
 ### 🚀 Atualmente estou:
-- Desenvolvendo um **aplicativo de planejamento de metas** em Android
 - Desenvolvendo uma **plataforma web utilizando React no frontend e FastAPI no backend**
-- Aprimorando meus conhecimentos em **Python**, **React** e desenvolvimento mobile
+- Aprimorando meus conhecimentos em **Python** e **React** 
 - Buscando oportunidades na área de desenvolvimento
 
 ### 📫 Como me encontrar:
