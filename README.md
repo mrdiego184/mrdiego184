@@ -9,7 +9,7 @@
 - 🗄️ Banco de Dados: SQLite, MySQL (em aprendizado)
 - 🌐 Frameworks: React, FastAPI
 - 🧠 IDEs e Ferramentas: VSCode, Android Studio, Git, GitHub
-- 📱 Desenvolvimento Android: Java + SQLite
+
 
 ### 📈 GitHub Stats
 <p align="left">
