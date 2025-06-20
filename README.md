@@ -2,7 +2,7 @@
 
 💻 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**.<br>
 🚀 Apaixonado por tecnologia, desenvolvimento de software e soluções criativas.<br>
-🔧 Estou sempre em busca de aprender e aprimorar minhas habilidades em **Python**, **Java**, **Android (Java + SQLite)** e desenvolvimento web com **HTML**, **CSS** e **JavaScript**.<br>
+🔧 Estou sempre em busca de aprender e aprimorar minhas habilidades em **Python**, **Java** e desenvolvimento web com **HTML**, **CSS** e **JavaScript**.<br>
 
 ### 🛠️ Tecnologias e Ferramentas
 - 💻 Linguagens: Python, Java, HTML, CSS, JavaScript
